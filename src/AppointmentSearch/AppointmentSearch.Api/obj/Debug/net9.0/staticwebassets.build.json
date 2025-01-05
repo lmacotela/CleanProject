@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0Ndbl6EV6qidZK+xKTcfqoJRblv9/Xw+JWMs9oL3MLA=",
+  "Source": "AppointmentSearch.Api",
+  "BasePath": "_content/AppointmentSearch.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

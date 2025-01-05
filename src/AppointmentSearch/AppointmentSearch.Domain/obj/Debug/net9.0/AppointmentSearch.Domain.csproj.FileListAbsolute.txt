@@ -1,0 +1,12 @@
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.deps.json
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.AssemblyInfoInputs.cache
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.AssemblyInfo.cs
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.csproj.CoreCompileInputs.cache
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\refint\AppointmentSearch.Domain.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\ref\AppointmentSearch.Domain.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.csproj.AssemblyReference.cache

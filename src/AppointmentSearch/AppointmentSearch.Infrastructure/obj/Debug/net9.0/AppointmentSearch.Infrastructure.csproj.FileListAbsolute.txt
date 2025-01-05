@@ -1,0 +1,17 @@
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Infrastructure.deps.json
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Infrastructure.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Infrastructure.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Application.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Domain.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Application.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\bin\Debug\net9.0\AppointmentSearch.Domain.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.csproj.AssemblyReference.cache
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.AssemblyInfoInputs.cache
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.AssemblyInfo.cs
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\Appointm.4A2FB171.Up2Date
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\refint\AppointmentSearch.Infrastructure.dll
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\AppointmentSearch.Infrastructure.pdb
+C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Infrastructure\obj\Debug\net9.0\ref\AppointmentSearch.Infrastructure.dll
