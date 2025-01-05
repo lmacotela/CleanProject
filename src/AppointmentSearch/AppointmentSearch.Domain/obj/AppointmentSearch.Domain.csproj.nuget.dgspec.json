@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj": {}
+    "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj": {}
   },
   "projects": {
-    "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj": {
+    "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
+        "projectUniqueName": "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
         "projectName": "AppointmentSearch.Domain",
-        "projectPath": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
+        "projectPath": "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
         "packagesPath": "C:\\Users\\l_mac\\.nuget\\packages\\",
-        "outputPath": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\obj\\",
+        "outputPath": "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

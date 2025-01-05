@@ -4,7 +4,7 @@ namespace AppointmentSearch.Domain.Shared
     {
         public static Money Zero()
         {
-            return new Money(0, Currency.None);
+            return new Money(0, Currency.Usd);
         }
         public static Money Zero(Currency Currency) 
         {

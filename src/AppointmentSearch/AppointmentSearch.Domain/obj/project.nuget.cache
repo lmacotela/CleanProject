@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HfXmn7mESM=",
+  "dgSpecHash": "RcUy7+k8HR8=",
   "success": true,
-  "projectFilePath": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
+  "projectFilePath": "C:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Domain\\AppointmentSearch.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l_mac\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\l_mac\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

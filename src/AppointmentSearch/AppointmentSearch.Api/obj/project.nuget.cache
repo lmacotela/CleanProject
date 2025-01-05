@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/CwZpn65ejg=",
+  "dgSpecHash": "NTZqs0kIezU=",
   "success": true,
-  "projectFilePath": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Api\\AppointmentSearch.Api.csproj",
+  "projectFilePath": "c:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Api\\AppointmentSearch.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l_mac\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\l_mac\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

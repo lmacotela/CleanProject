@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xxsEu4OehQ=",
+  "dgSpecHash": "OKd9jD00K80=",
   "success": true,
-  "projectFilePath": "C:\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Application\\AppointmentSearch.Application.csproj",
+  "projectFilePath": "c:\\Next\\CleanProject\\src\\AppointmentSearch\\AppointmentSearch.Application\\AppointmentSearch.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l_mac\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\l_mac\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

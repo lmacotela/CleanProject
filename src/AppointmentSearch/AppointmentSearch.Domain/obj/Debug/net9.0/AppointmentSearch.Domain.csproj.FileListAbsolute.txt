@@ -10,3 +10,16 @@ C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\
 C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.pdb
 C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\ref\AppointmentSearch.Domain.dll
 C:\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.csproj.AssemblyReference.cache
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.deps.json
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.dll
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\bin\Debug\net9.0\AppointmentSearch.Domain.pdb
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.csproj.AssemblyReference.cache
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.AssemblyInfoInputs.cache
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.AssemblyInfo.cs
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.csproj.CoreCompileInputs.cache
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.sourcelink.json
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.dll
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\refint\AppointmentSearch.Domain.dll
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\AppointmentSearch.Domain.pdb
+C:\Next\CleanProject\src\AppointmentSearch\AppointmentSearch.Domain\obj\Debug\net9.0\ref\AppointmentSearch.Domain.dll

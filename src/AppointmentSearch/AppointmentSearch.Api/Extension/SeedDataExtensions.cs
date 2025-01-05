@@ -13,6 +13,8 @@ public static class SeedDataExtensions
 
         using var connection= sqlConnectionFactory.CreateConnection();
 
+        //Agregar nuevos doctores
+
         var faker = new Faker();
         List<object> doctors = new();
         for (int i = 0; i < 100; i++)
@@ -38,6 +40,28 @@ public static class SeedDataExtensions
         (id, name, last_name, address_country, address_street, address_city, address_state, address_zip_code, salary_amount, salary_currency, last_appointment_date, specialities)
         values (@id, @name, @lastName, @country, @street, @city, @state, @zipCode, @amount, @currency, @lastAppointmentDate, @specialities)
         """;
-    await connection.ExecuteAsync(sql, doctors);
+        
+        await connection.ExecuteAsync(sql, doctors);
+        //Agregar nuevos usuarios
+
+        var fackerUser = new Faker();
+        List<object> users = new();
+        for (int i = 0; i < 100; i++)
+        {
+            users.Add(new
+            {
+                id = Guid.NewGuid(),
+                name = fackerUser.Name.FirstName(),
+                lastName = fackerUser.Name.LastName(),
+                email = fackerUser.Internet.Email()
+            });
+        }
+        const string sqlUser = """
+        INSERT INTO public.users
+        (id, name, last_name, email)
+        values (@id, @name, @lastName, @email)
+        """;
+        await connection.ExecuteAsync(sqlUser, users);
+    
     }
 }
